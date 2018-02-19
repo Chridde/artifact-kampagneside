@@ -60,6 +60,12 @@ color:#e85200;
 
 }
 
+#data{
+  margin-top: 400px;
+  height: 950px;
+
+}
+
 .videooverlay{
   padding: 0;
   top: 0;
@@ -130,7 +136,7 @@ color:#e85200;
   font-size: 80px;
   text-align: center;
   color: #e85400;
-  margin-bottom: 80px;
+  margin: 80px 0 80px 0;
 }
 
 
@@ -180,7 +186,7 @@ color:#e85200;
   color: #707070;
   position: absolute;
   float: left;
-  padding-right: 250px;
+  padding: 150px 250px 0 0;
   width: 33%;
   font-size: 18px;
 }
@@ -189,7 +195,17 @@ color:#e85200;
   color: #707070;
   position: absolute;
   float: left;
-  padding-left: 720px;
+  padding: 150px 0 0 720px;
   width: 33%;
   font-size: 18px;
+}
+
+.bigtext {
+  font-family: 'Share Tech', Arial;
+  color: #e85400;
+  position: absolute;
+  float: left;
+  padding: 400px 0 0 80px;
+  width: 80%;
+  font-size: 150px;
 }
