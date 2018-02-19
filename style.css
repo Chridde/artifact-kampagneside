@@ -4,6 +4,8 @@
 }
 
 body {
+  width: 100%;
+  float: left;
 }
 
 nav{
@@ -22,6 +24,10 @@ z-index: 1000;
 nav li{
 display: inline-block;
 margin-left: 50px;
+}
+
+ul{
+width: 100%;
 }
 
 li a{
@@ -174,7 +180,7 @@ color:#e85200;
 
 .textbox3 {
   float: left;
-  width: 90%;
+  width: 80%;
   margin-left: 150px;
   z-index: 10;
   position: absolute;
@@ -208,4 +214,9 @@ color:#e85200;
   padding: 400px 0 0 80px;
   width: 80%;
   font-size: 150px;
+}
+
+.quoteimg img {
+  width: 100%;
+  float: left;
 }
