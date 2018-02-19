@@ -39,9 +39,9 @@ color:white;
   margin-top: 200px;
 }
 
-#third{
-    float: left;
-    margin-top: 1000px;
+#opinions{
+  height: 950px;
+
 }
 
 .videooverlay{
@@ -112,16 +112,6 @@ color:white;
   margin-bottom: 80px;
 }
 
-.headerthird {
-  font-family: 'Neo Latina', Arial;
-  color: #000;
-  font-size: 80px;
-  width: 700px;
-  text-align: center;
-  color: #e85400;
-  float: left;
-  margin-top: 800px;
-}
 
 .orange {
   color: #e85400 !important;
@@ -152,5 +142,33 @@ color:white;
 .text {
   font-family: 'Share Tech', Arial;
   color: ##707070;
+  font-size: 18px;
+}
+
+.textbox3 {
+  float: left;
+  width: 90%;
+  margin-left: 150px;
+  z-index: 10;
+  position: absolute;
+  top: 2980px;
+  left: 80px;
+}
+
+.quotebox {
+  color: #707070;
+  position: absolute;
+  float: left;
+  padding-right: 250px;
+  width: 33%;
+  font-size: 18px;
+}
+
+.quotebox2 {
+  color: #707070;
+  position: absolute;
+  float: left;
+  padding-left: 720px;
+  width: 33%;
   font-size: 18px;
 }
