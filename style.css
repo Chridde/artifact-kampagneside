@@ -44,9 +44,13 @@ body {
 
 .header {
   font-family: 'Neo Latina', Arial;
-  color: #e85400;
+  color: #000;
   font-size: 128px;
   padding-top: 1000px;
+}
+
+.orange {
+  color: #e85400 !important;
 }
 
 .subheader {
