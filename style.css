@@ -11,7 +11,7 @@ body {
   font-family: Neo Latina; src: url('media/neo-latina.ttf');
 }
 
-#top{
+#first{
     padding-top: 480px;
 }
 
@@ -116,4 +116,9 @@ body {
   font-family: 'Share Tech', Arial;
   color: ##707070;
   font-size: 18px;
+}
+
+#second{
+  float: left;
+  margin-top: 200px;
 }
