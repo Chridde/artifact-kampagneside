@@ -92,12 +92,13 @@ body {
   margin-bottom: 80px;
 }
 
-.header3 {
+.headerthird {
   font-family: 'Neo Latina', Arial;
   color: #000;
   font-size: 80px;
   text-align: center;
   color: #e85400;
+  margin-bottom: 80px;
 }
 
 .orange {
