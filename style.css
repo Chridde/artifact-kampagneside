@@ -11,8 +11,14 @@ body {
   font-family: Neo Latina; src: url('media/neo-latina.ttf');
 }
 
+#video{
+    height: 950px;
+}
+
+
 #presentation{
-    padding-top: 480px;
+    margin-top: 0;
+    height: 1850px;
 }
 
 .second{
