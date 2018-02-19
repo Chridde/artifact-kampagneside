@@ -83,6 +83,14 @@ body {
   margin-bottom: 80px;
 }
 
+.header3 {
+  font-family: 'Neo Latina', Arial;
+  color: #000;
+  font-size: 80px;
+  text-align: center;
+  color: #e85400;
+}
+
 .orange {
   color: #e85400 !important;
 }
