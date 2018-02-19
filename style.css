@@ -33,9 +33,9 @@ display: inline-block;
   margin-top: 200px;
 }
 
-#third{
-    float: left;
-    margin-top: 1000px;
+#opinions{
+  height: 950px;
+
 }
 
 .videooverlay{
@@ -91,6 +91,16 @@ display: inline-block;
   left: 80px;
 }
 
+.textbox3 {
+  float: left;
+  width: 33%;
+  margin-left: 150px;
+  z-index: 10;
+  position: absolute;
+  top: 2980px;
+  left: 80px;
+}
+
 .header {
   font-family: 'Neo Latina', Arial;
   color: #fff;
@@ -106,16 +116,6 @@ display: inline-block;
   margin-bottom: 80px;
 }
 
-.headerthird {
-  font-family: 'Neo Latina', Arial;
-  color: #000;
-  font-size: 80px;
-  width: 700px;
-  text-align: center;
-  color: #e85400;
-  float: left;
-  margin-top: 800px;
-}
 
 .orange {
   color: #e85400 !important;
