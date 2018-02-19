@@ -76,6 +76,16 @@ body {
   color: #e85400 !important;
 }
 
+.fullwidthimage {
+  width: 100%;
+  float: left;
+}
+
+.fullwidthimage img{
+  width: 100%;
+  float: left;
+}
+
 .subheader {
   font-family: 'Share Tech', Arial;
   color: #e85400;
