@@ -4,14 +4,20 @@
 }
 
 body {
-
 }
 
 nav{
+background-color: black;
+position: fixed;
+width: 100%;
 }
 
 nav li{
 display: inline-block;
+}
+
+li a{
+color:white;
 }
 
 @font-face {
