@@ -15,8 +15,14 @@ body {
     padding-top: 480px;
 }
 
+#second{
+  float: left;
+  margin-top: 200px;
+}
+
 #third{
     float: left;
+    margin-top: 1000px;
 }
 
 .videooverlay{
@@ -56,17 +62,17 @@ body {
 
 .textbox {
   float: left;
-  width: 400px;
+  width: 500px;
   margin-top: 100px;
 }
 
 .textbox2 {
   float: left;
-  width: 400px;
+  width: 550px;
   margin-left: 150px;
   z-index: 10;
   position: relative;
-  top: 0;
+  top: 150px;
   right: 0;
   left: 0;
 }
@@ -80,7 +86,6 @@ body {
 
 .header2 {
   font-family: 'Neo Latina', Arial;
-  color: #000;
   font-size: 80px;
   text-align: center;
   color: #e85400;
@@ -102,6 +107,11 @@ body {
 .fullwidthimage {
   width: 100%;
   float: left;
+  top: 1900px;
+  right: 0;
+  left: 0;
+  z-index: 1;
+  position: absolute;
 }
 
 .fullwidthimage img{
@@ -111,7 +121,7 @@ body {
 
 .subheader {
   font-family: 'Share Tech', Arial;
-  color: #e85400;
+  color: #0a286e;
   font-size: 28px;
   padding-bottom: 10px;
 }
@@ -120,9 +130,4 @@ body {
   font-family: 'Share Tech', Arial;
   color: ##707070;
   font-size: 18px;
-}
-
-#second{
-  float: left;
-  margin-top: 200px;
 }
