@@ -14,11 +14,11 @@ nav{
   font-family: Neo Latina; src: url('media/neo-latina.ttf');
 }
 
-#first{
+#presentation{
     padding-top: 480px;
 }
 
-#second{
+.second{
   float: left;
   margin-top: 200px;
 }
@@ -100,9 +100,11 @@ nav{
   font-family: 'Neo Latina', Arial;
   color: #000;
   font-size: 80px;
+  width: 700px;
   text-align: center;
   color: #e85400;
-  margin-bottom: 80px;
+  float: left;
+  margin-top: 800px;
 }
 
 .orange {
