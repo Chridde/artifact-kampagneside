@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: grey;
+
 }
 
 #top{
@@ -31,10 +31,33 @@ body {
   display: block;
 }
 
+.leftimage {
+  float: left;
+  width: 1000px;
+}
+
+.textbox {
+  float: left;
+  width: 400px;
+  margin-top: 100px;
+}
+
+.header {
+  font-family: 'Neo Latina', Arial;
+  color: #e85400;
+  font-size: 128px;
+  padding-top: 1000px;
+}
+
 .subheader {
   font-family: 'Share Tech', Arial;
+  color: #e85400;
+  font-size: 28px;
+  padding-bottom: 10px;
 }
 
 .text {
   font-family: 'Share Tech', Arial;
+  color: ##707070;
+  font-size: 18px;
 }
