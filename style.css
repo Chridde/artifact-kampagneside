@@ -68,6 +68,10 @@ display: inline-block;
   display: block;
 }
 
+.googledata{
+  float: center;
+}
+
 .leftimage {
   float: left;
   width: 1000px;
