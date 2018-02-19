@@ -91,16 +91,6 @@ display: inline-block;
   left: 80px;
 }
 
-.textbox3 {
-  float: left;
-  width: 33%;
-  margin-left: 150px;
-  z-index: 10;
-  position: absolute;
-  top: 2980px;
-  left: 80px;
-}
-
 .header {
   font-family: 'Neo Latina', Arial;
   color: #fff;
@@ -146,5 +136,33 @@ display: inline-block;
 .text {
   font-family: 'Share Tech', Arial;
   color: ##707070;
+  font-size: 18px;
+}
+
+.textbox3 {
+  float: left;
+  width: 90%;
+  margin-left: 150px;
+  z-index: 10;
+  position: absolute;
+  top: 2980px;
+  left: 80px;
+}
+
+.quotebox {
+  color: #707070;
+  position: absolute;
+  float: left;
+  padding-right: 250px;
+  width: 33%;
+  font-size: 18px;
+}
+
+.quotebox2 {
+  color: #707070;
+  position: absolute;
+  float: left;
+  padding-left: 720px;
+  width: 33%;
   font-size: 18px;
 }
