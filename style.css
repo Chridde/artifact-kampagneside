@@ -62,13 +62,13 @@ body {
 
 .textbox {
   float: left;
-  width: 500px;
+  width: 33%;
   margin-top: 100px;
 }
 
 .textbox2 {
   float: left;
-  width: 550px;
+  width: 33%;
   margin-left: 150px;
   z-index: 10;
   position: relative;
