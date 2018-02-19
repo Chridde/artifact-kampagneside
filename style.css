@@ -25,6 +25,10 @@ body {
   width: 100%;
 }
 
+@font-face {
+  font-family: Neo Latina; src: url('media/neo-latina.ttf');
+}
+
 .videobox {
   position: relative;
   width: 100%;
