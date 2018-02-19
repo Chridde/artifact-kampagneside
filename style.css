@@ -7,6 +7,10 @@ body {
     background-color: grey;
 }
 
+#top{
+    padding-top: 1100px;
+}
+
 .fullscreen-back {
   top: 0;
   right: 0;
@@ -25,4 +29,8 @@ body {
   position: relative;
   width: 100%;
   display: block;
+}
+
+.subheader {
+  font-family: 
 }
