@@ -224,10 +224,15 @@ color:#e85200;
 }
 
 footer{
-  padding:40px;
+  padding:20px;
   margin-top:25px;
   text-align:center;
   color:#ffffff;
-  background-color:#192170;
-  height: 50px;
+  background-color:#0a286e;
+  height: 150px;
+}
+
+.iframefb {
+  float: left;
+  padding-bottom: 25px;
 }
