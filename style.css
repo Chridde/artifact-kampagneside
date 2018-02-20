@@ -236,18 +236,29 @@ footer{
   margin-top:25px;
   color:#ffffff;
   background-color:#0a286e;
-  height: 100px;
-  font-family:'Share Tech'
+  height: 200px;
+  font-family:'Share Tech';
+  opacity: 0.8;
+}
+
+
+.footertext a{
+  color: #ffffff
+}
+
+.footertext{
+  text-align: center;
+padding-top: 10px;
 }
 
 .footerpics{
-
+text-align: center;
 }
 
 
 .copyright{
   text-align: center;
-  padding-top: 40px;
+  padding-top: 20px;
 }
 
 
