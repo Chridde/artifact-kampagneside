@@ -236,58 +236,32 @@ footer{
   margin-top:25px;
   color:#ffffff;
   background-color:#0a286e;
-  height: 150px;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+  height: 200px;
+  font-family:'Share Tech';
+  opacity: 0.8;
 }
 
-<<<<<<< HEAD
+
+.footertext a{
+  color: #ffffff
+}
+
+.footertext{
+  text-align: center;
+padding-top: 10px;
+}
+
 .footerpics{
 text-align: center;
-<<<<<<< HEAD
 }
 
 
-=======
->>>>>>> parent of 72bb76b... smooth scroll
 .copyright{
   text-align: center;
-  padding-top: 130px;
-}
-
-.iframefb {
-  float: left;
-  padding-bottom: 25px;
-}
-
-=======
+  padding-top: 20px;
 }
 
 
-=======
-}
-
->>>>>>> parent of 72bb76b... smooth scroll
-=======
-}
-
->>>>>>> parent of 72bb76b... smooth scroll
-=======
-}
-
->>>>>>> parent of 72bb76b... smooth scroll
-.copyright{
-  text-align: center;
-  padding-top: 130px;
-}
-
-.iframefb {
-  float: left;
-  padding-bottom: 25px;
-}
-
->>>>>>> 785a39ac361e7e91ffb5e2a679ba033441f6376b
 .buttonbox {
   float: left;
   margin-left: 150px;
