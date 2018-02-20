@@ -67,7 +67,13 @@ color:#e85200;
 }
 
 #data{
-  margin-top: 400px;
+  margin-top: 300px;
+  height: 1450px;
+
+}
+
+#contact{
+  margin-top: 100px;
   height: 1450px;
 
 }
@@ -235,4 +241,28 @@ footer{
 .iframefb {
   float: left;
   padding-bottom: 25px;
+}
+
+.buttonbox {
+  margin-top: 3200px;
+  float: left;
+  z-index: 200;
+}
+
+.button {
+  z-index: 200;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #e85100;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #ff8400;
+  text-decoration: none;
 }
