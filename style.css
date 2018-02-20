@@ -272,6 +272,7 @@ padding-top: 10px;
 
 .footerpics{
 text-align: center;
+<<<<<<< HEAD
 }
 
 
@@ -281,6 +282,17 @@ text-align: center;
 }
 
 
+=======
+}
+
+
+.copyright{
+  text-align: center;
+  padding-top: 20px;
+}
+
+
+>>>>>>> 785a39ac361e7e91ffb5e2a679ba033441f6376b
 .buttonbox {
   float: left;
   margin-left: 150px;
