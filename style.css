@@ -299,7 +299,8 @@ text-align: center;
   color: #e85400;
   position: absolute;
   float: left;
-  padding: 300px 0 0 200px;
+  margin-top: 3020px;
+  padding: 290px 0 0 430px;
   width: 80%;
-  font-size: 40px;
+  font-size: 60px;
 }
