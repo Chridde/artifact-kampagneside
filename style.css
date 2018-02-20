@@ -21,22 +21,6 @@ opacity: 0.8;
 z-index: 95;
 }
 
-
-nav, scroll-container {
-
-}
-
-scroll-container {
-  display: block;
-  height: 2000px;
-  scroll-behavior: smooth;
-}
-
-scroll-page {
-
-}
-
-
 nav li{
 display: inline-block;
 margin-left: 50px;
@@ -68,16 +52,12 @@ margin-left: 0;
 
 #video{
     height: 950px;
-    float: left;
-    width: 100%;
 }
 
 
 #presentation{
-  float: left;
-  width: 100%;
-  margin-top: 0px;
-  height: 1840px;
+    margin-top: 0;
+    height: 1840px;
 }
 
 .second{
@@ -86,22 +66,17 @@ margin-left: 0;
 }
 
 #opinions{
-  float: left;
-  margin-top: 180px;
   height: 950px;
 
 }
 
 #data{
-  float: left;
   margin-top: 300px;
-  width: 100%;
   height: 1450px;
 
 }
 
 #contact{
-  float: left;
   margin-top: 100px;
   height: 1450px;
 
@@ -151,6 +126,7 @@ margin-left: 0;
   float: left;
   width: 33%;
   margin-top: 100px;
+    position: absolute;
     left: 900px;
 }
 
@@ -160,6 +136,7 @@ margin-left: 0;
   margin-left: 150px;
   z-index: 10;
   position: absolute;
+  top: 2080px;
   left: 80px;
 }
 
@@ -186,9 +163,11 @@ margin-left: 0;
 .fullwidthimage {
   width: 100%;
   float: left;
+  top: 2000px;
   right: 0;
   left: 0;
   z-index: 1;
+  position: absolute;
 }
 
 .fullwidthimage img{
@@ -215,12 +194,14 @@ margin-left: 0;
   margin-left: 150px;
   z-index: 10;
   position: absolute;
+  top: 2980px;
   left: 80px;
 }
 
 .quotebox {
   color: #707070;
   position: absolute;
+  float: left;
   padding: 150px 250px 0 0;
   width: 33%;
   font-size: 18px;
@@ -255,32 +236,27 @@ footer{
   margin-top:25px;
   color:#ffffff;
   background-color:#0a286e;
-  height: 200px;
-  font-family:'Share Tech';
-  opacity: 0.8;
+  height: 150px;
 }
 
-
-.footertext a{
-  color: #ffffff
-}
-
-.footertext{
-  text-align: center;
-padding-top: 10px;
-}
-
+<<<<<<< HEAD
 .footerpics{
 text-align: center;
 <<<<<<< HEAD
 }
 
 
+=======
+>>>>>>> parent of 72bb76b... smooth scroll
 .copyright{
   text-align: center;
-  padding-top: 20px;
+  padding-top: 130px;
 }
 
+.iframefb {
+  float: left;
+  padding-bottom: 25px;
+}
 
 =======
 }
@@ -297,6 +273,8 @@ text-align: center;
   float: left;
   margin-left: 150px;
   z-index: 10;
+  position: absolute;
+  top: 6300px;
   text-align: center;
   left: 33%;
 }
@@ -329,8 +307,6 @@ text-align: center;
   position: absolute;
   float: left;
   padding: 300px 0 0 200px;
-  top: 0;
-  left: 0;
   width: 80%;
   font-size: 40px;
 }
