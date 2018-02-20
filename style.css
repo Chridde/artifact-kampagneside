@@ -220,12 +220,3 @@ color:#e85200;
   width: 100%;
   float: left;
 }
-
-footer{
-  background-color: #0a286e;
-  width: 100%;
-  position:absolute;
-  bottom:0;
-  min-height:100px;
-  text-align:center;
-}
