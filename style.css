@@ -236,7 +236,19 @@ footer{
   margin-top:25px;
   color:#ffffff;
   background-color:#0a286e;
-  height: 150px;
+  height: 200px;
+  font-family:'Share Tech';
+  opacity: 0.8;
+}
+
+
+.footertext a{
+  color: #ffffff
+}
+
+.footertext{
+  text-align: center;
+padding-top: 10px;
 }
 
 .footerpics{
@@ -246,23 +258,9 @@ text-align: center;
 
 .copyright{
   text-align: center;
-  padding-top: 130px;
+  padding-top: 20px;
 }
 
-.iframefb {
-  float: left;
-  padding-bottom: 25px;
-}
-
-.copyright{
-  text-align: center;
-  padding-top: 130px;
-}
-
-.iframefb {
-  float: left;
-  padding-bottom: 25px;
-}
 
 .buttonbox {
   float: left;
