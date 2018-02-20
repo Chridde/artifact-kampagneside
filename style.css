@@ -100,7 +100,6 @@ color:#e85200;
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 99;
 }
 
 .videobox {
@@ -142,7 +141,6 @@ color:#e85200;
   color: #fff;
   font-size: 150px;
   padding-top: 300px;
-  z-index: 20;
 }
 
 .header2 {
@@ -237,6 +235,7 @@ footer{
   background-color:#0a286e;
   height: 150px;
 }
+
 
 .iframefb {
   float: left;
