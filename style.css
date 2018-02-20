@@ -247,8 +247,9 @@ footer{
   padding:20px;
   color:#ffffff;
   background-color:#0a286e;
-  height: 200px;
+  height: 300px;
   font-family:'Share Tech';
+  bottom: 0;
 }
 
 
