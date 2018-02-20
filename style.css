@@ -236,19 +236,20 @@ footer{
   margin-top:25px;
   color:#ffffff;
   background-color:#0a286e;
-  height: 150px;
+  height: 100px;
+  font-family:'Share Tech'
+}
+
+.footerpics{
+
 }
 
 
 .copyright{
   text-align: center;
-  padding-top: 130px;
+  padding-top: 40px;
 }
 
-.iframefb {
-  float: left;
-  padding-bottom: 25px;
-}
 
 .buttonbox {
   float: left;
