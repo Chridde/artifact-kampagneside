@@ -42,6 +42,10 @@ nav a:hover{
 color:#e85200;
 }
 
+.first{
+margin-left: 0;
+}
+
 @font-face {
   font-family: Neo Latina; src: url('media/neo-latina.ttf');
 }
@@ -132,7 +136,7 @@ color:#e85200;
   margin-left: 150px;
   z-index: 10;
   position: absolute;
-  top: 1980px;
+  top: 2080px;
   left: 80px;
 }
 
@@ -159,7 +163,7 @@ color:#e85200;
 .fullwidthimage {
   width: 100%;
   float: left;
-  top: 1900px;
+  top: 2000px;
   right: 0;
   left: 0;
   z-index: 1;
@@ -217,9 +221,9 @@ color:#e85200;
   color: #e85400;
   position: absolute;
   float: left;
-  padding: 400px 0 0 80px;
+  padding: 420px 0 0 80px;
   width: 80%;
-  font-size: 150px;
+  font-size: 134px;
 }
 
 .quoteimg img {
@@ -247,25 +251,43 @@ footer{
 }
 
 .buttonbox {
-  margin-top: 3200px;
   float: left;
-  z-index: 200;
+  margin-left: 150px;
+  z-index: 10;
+  position: absolute;
+  top: 6300px;
+  text-align: center;
+  left: 33%;
+}
+
+.buttonbox a {
+  text-decoration: none;
 }
 
 .button {
+  font-family: 'Share Tech', Arial;
   z-index: 200;
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  font-family: Arial;
+  -webkit-border-radius: 32;
+  -moz-border-radius: 32;
+  border-radius: 32px;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 24px;
   background: #e85100;
-  padding: 10px 20px 10px 20px;
+  padding: 20px 40px 20px 40px;
   text-decoration: none;
 }
 
 .button:hover {
   background: #ff8400;
   text-decoration: none;
+}
+
+.contacttext {
+  font-family: 'Share Tech', Arial;
+  color: #e85400;
+  position: absolute;
+  float: left;
+  padding: 300px 0 0 200px;
+  width: 80%;
+  font-size: 40px;
 }
