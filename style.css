@@ -68,7 +68,7 @@ color:#e85200;
 
 #data{
   margin-top: 400px;
-  height: 950px;
+  height: 1450px;
 
 }
 
@@ -221,4 +221,13 @@ color:#e85200;
 .quoteimg img {
   width: 100%;
   float: left;
+}
+
+footer{
+  padding:40px;
+  margin-top:25px;
+  text-align:center;
+  color:#ffffff;
+  background-color:#192170;
+  height: 50px;
 }
