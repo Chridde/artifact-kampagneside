@@ -18,7 +18,7 @@ height:5%;
 text-align:center;
 padding-top:20px;
 opacity: 0.8;
-z-index: 95;
+z-index: 1000;
 }
 
 nav li{
@@ -68,7 +68,7 @@ color:#e85200;
 
 #data{
   margin-top: 400px;
-  height: 1450px;
+  height: 950px;
 
 }
 
@@ -77,7 +77,7 @@ color:#e85200;
   top: 0;
   left: 0;
   color: #FFF;
-  z-index: 99;
+  z-index: 10;
   position: relative;
   text-align: center;
 }
@@ -86,7 +86,7 @@ color:#e85200;
   top: 0;
   right: 0;
   left: 0;
-  z-index: 99;
+  z-index: 1;
   position: absolute;
 }
 
@@ -94,14 +94,13 @@ color:#e85200;
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 99;
 }
 
 .videobox {
   position: relative;
   width: 100%;
   display: block;
-  z-index: 99;
+  z-index: 2000;
 }
 
 .googledata{
@@ -136,7 +135,6 @@ color:#e85200;
   color: #fff;
   font-size: 150px;
   padding-top: 300px;
-  z-index: 20;
 }
 
 .header2 {
@@ -222,6 +220,7 @@ color:#e85200;
   width: 100%;
   float: left;
 }
+<<<<<<< HEAD
 
 footer{
   padding:20px;
@@ -240,3 +239,5 @@ footer{
   float: left;
   padding-bottom: 25px;
 }
+=======
+>>>>>>> dde1d401b592b32d287b2c8ac3a0d0eb83801fbe
