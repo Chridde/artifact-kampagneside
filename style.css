@@ -237,6 +237,7 @@ footer{
   color:#ffffff;
   background-color:#0a286e;
   height: 150px;
+<<<<<<< HEAD
 }
 
 <<<<<<< HEAD
@@ -262,11 +263,19 @@ text-align: center;
 }
 
 
-.copyright{
-  text-align: center;
-  padding-top: 20px;
+=======
 }
 
+>>>>>>> parent of 72bb76b... smooth scroll
+.copyright{
+  text-align: center;
+  padding-top: 130px;
+}
+
+.iframefb {
+  float: left;
+  padding-bottom: 25px;
+}
 
 >>>>>>> 785a39ac361e7e91ffb5e2a679ba033441f6376b
 .buttonbox {
