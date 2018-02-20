@@ -3,66 +3,61 @@
   padding: 0;
 }
 
-body {
+body{
   width: 100%;
   float: left;
 }
 
 nav{
-font-family: 'Share Tech', Arial;
-font-size: 20px;
-background-color: #0a286e;
-position:fixed;
-width: 100%;
-height:5%;
-text-align:center;
-padding-top:20px;
-opacity: 0.8;
-z-index: 95;
+  font-family: 'Share Tech', Arial;
+  font-size: 20px;
+  background-color: #0a286e;
+  position:fixed;
+  width: 100%;
+  height:5%;
+  text-align:center;
+  padding-top:20px;
+  opacity: 0.8;
+  z-index: 95;
 }
 
 nav li{
-display: inline-block;
-margin-left: 50px;
+  display: inline-block;
+  margin-left: 50px;
 }
 
 ul{
-width: 100%;
+  width: 100%;
 }
 
 li a{
-color:white;
+  color:white;
 }
 
 nav a{
-text-decoration: none;
+  text-decoration: none;
 }
 
 nav a:hover{
-color:#e85200;
+  color:#e85200;
 }
 
 .first{
-margin-left: 0;
+  margin-left: 0;
 }
 
-@font-face {
+@font-face{
   font-family: Neo Latina; src: url('media/neo-latina.ttf');
 }
 
 #video{
-    height: 950px;
+  height: 950px;
 }
 
 
 #presentation{
-    margin-top: 0;
-    height: 1840px;
-}
-
-.second{
-  float: left;
-  margin-top: 200px;
+  margin-top: 0;
+  height: 1840px;
 }
 
 #opinions{
@@ -73,27 +68,24 @@ margin-left: 0;
 #data{
   margin-top: 300px;
   height: 1350px;
-
 }
 
 #contact{
   margin-top: 100px;
   height: 960px;
-
 }
 
-@keyframes headeranimation {
-    from {opacity: 1.0;}
-    to {opacity: 0;}
+@keyframes headeranimation{
+  from {opacity: 1.0;}
+  to {opacity: 0;}
 }
 
-.header {
-    animation-name: headeranimation;
-    animation-duration: 3s;
-    animation-delay: 4s;
-    animation-fill-mode: forwards;
+.header{
+  animation-name: headeranimation;
+  animation-duration: 3s;
+  animation-delay: 4s;
+  animation-fill-mode: forwards;
 }
-
 
 .videooverlay{
   padding: 0;
@@ -105,7 +97,7 @@ margin-left: 0;
   text-align: center;
 }
 
-.fullscreen-back {
+.fullscreen-back{
   top: 0;
   right: 0;
   left: 0;
@@ -113,13 +105,13 @@ margin-left: 0;
   position: absolute;
 }
 
-.fullscreen-video {
+.fullscreen-video{
   top: 0;
   left: 0;
   width: 100%;
 }
 
-.videobox {
+.videobox{
   position: relative;
   width: 100%;
   display: block;
@@ -130,20 +122,20 @@ margin-left: 0;
   padding-left: 70px;
 }
 
-.leftimage {
+.leftimage{
   float: left;
   width: 1000px;
 }
 
-.textbox {
+.textbox{
   float: left;
   width: 33%;
   margin-top: 100px;
-    position: absolute;
-    left: 900px;
+  position: absolute;
+  left: 900px;
 }
 
-.textbox2 {
+.textbox2{
   float: left;
   width: 33%;
   margin-left: 150px;
@@ -153,14 +145,14 @@ margin-left: 0;
   left: 80px;
 }
 
-.header {
+.header{
   font-family: 'Neo Latina', Arial;
   color: #fff;
   font-size: 150px;
   padding-top: 300px;
 }
 
-.header2 {
+.header2{
   font-family: 'Neo Latina', Arial;
   font-size: 80px;
   text-align: center;
@@ -169,11 +161,11 @@ margin-left: 0;
 }
 
 
-.orange {
+.orange{
   color: #e85400 !important;
 }
 
-.fullwidthimage {
+.fullwidthimage{
   width: 100%;
   float: left;
   top: 2100px;
@@ -188,20 +180,20 @@ margin-left: 0;
   float: left;
 }
 
-.subheader {
+.subheader{
   font-family: 'Share Tech', Arial;
   color: #0a286e;
   font-size: 28px;
   padding-bottom: 10px;
 }
 
-.text {
+.text{
   font-family: 'Share Tech', Arial;
   color: #707070;
   font-size: 18px;
 }
 
-.textbox3 {
+.textbox3{
   float: left;
   width: 80%;
   z-index: 10;
@@ -210,7 +202,7 @@ margin-left: 0;
   left: 80px;
 }
 
-.quotebox {
+.quotebox{
   color: #707070;
   position: absolute;
   float: left;
@@ -219,7 +211,7 @@ margin-left: 0;
   font-size: 18px;
 }
 
-.quotebox2 {
+.quotebox2{
   color: #707070;
   position: absolute;
   float: left;
@@ -228,7 +220,7 @@ margin-left: 0;
   font-size: 18px;
 }
 
-.bigtext {
+.bigtext{
   font-family: 'Share Tech', Arial;
   color: #e85400;
   position: absolute;
@@ -238,7 +230,7 @@ margin-left: 0;
   font-size: 120px;
 }
 
-.quoteimg img {
+.quoteimg img{
   width: 100%;
   float: left;
 }
@@ -252,41 +244,38 @@ footer{
   bottom: 0;
 }
 
-
 .footertext a{
   color: #ffffff
 }
 
 .footertext{
   text-align: center;
-padding-top: 10px;
+  padding-top: 10px;
 }
 
 .footerpics{
-text-align: center;
+  text-align: center;
 }
-
 
 .copyright{
   text-align: center;
   padding-top: 20px;
 }
 
-
-.buttonbox {
+.buttonbox{
   float: left;
   z-index: 10;
   position: absolute;
-  top: 3400px;
+  top: 3380px;
   text-align: center;
   left: 48.5%;
 }
 
-.buttonbox a {
+.buttonbox a{
   text-decoration: none;
 }
 
-.button {
+.button{
   font-family: 'Share Tech', Arial;
   z-index: 200;
   -webkit-border-radius: 32;
@@ -299,12 +288,12 @@ text-align: center;
   text-decoration: none;
 }
 
-.button:hover {
+.button:hover{
   background: #ff8400;
   text-decoration: none;
 }
 
-.contacttext {
+.contacttext{
   font-family: 'Share Tech', Arial;
   color: #e85400;
   position: absolute;
