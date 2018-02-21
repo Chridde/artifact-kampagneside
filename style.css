@@ -278,8 +278,6 @@ footer{
 .button{
   font-family: 'Share Tech', Arial;
   z-index: 200;
-  -webkit-border-radius: 32;
-  -moz-border-radius: 32;
   border-radius: 32px;
   color: #ffffff;
   font-size: 24px;
